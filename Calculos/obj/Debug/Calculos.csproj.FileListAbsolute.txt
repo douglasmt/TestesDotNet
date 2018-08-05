@@ -1,0 +1,6 @@
+C:\Visual Studio\Calculos\Calculos\bin\Debug\Calculos.dll
+C:\Visual Studio\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Visual Studio\Calculos\Calculos\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+C:\Visual Studio\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Calculos\Calculos\obj\Debug\Calculos.dll
+C:\Visual Studio\Calculos\Calculos\obj\Debug\Calculos.pdb
